@@ -1,0 +1,27 @@
+# Directories
+bin/
+obj/
+ipch/
+Win32/
+x86/
+x64/
+Debug/
+Release/
+.svn/
+.hg/
+.vs/
+.vscode/
+
+# File types
+*.dll
+*.exe
+*.sys
+*.pdb
+*.aps
+*.sdf
+*.user
+*.obj
+*.opensdf
+*.suo
+*.VC.db
+*.VC.opendb
